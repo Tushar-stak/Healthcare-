@@ -1,4 +1,4 @@
-# Healthcare-Project
+# Healthcare-Data-Science-Capstone-Project
 
 DESCRIPTION
 
